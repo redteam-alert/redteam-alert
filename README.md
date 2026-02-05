@@ -1,4 +1,4 @@
-## Hi there alert 1👋
+## Hi there alert 1 - update 0502👋
 
 <!--
 **redteam-alert/redteam-alert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
